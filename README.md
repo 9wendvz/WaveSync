@@ -1,4 +1,4 @@
-# Gesture-Controlled Music Player (macOS)
+# WaveSync (macOS)
 
 Control music playback with hand gestures using your webcam, no mouse or keyboard needed.
 
